@@ -3,17 +3,17 @@
         {
             title : "La gentilesse",
             symbol : "✦",
-            text : "Petit rappel : la gentilesse que tu donnes autour de toi mérite aussi de t'être rendue"
+            text : "Tu sais, je trouve ça chouette les personnes qui savent être attentionnées sans forcément chercher à le montrer. Je trouve que ça en dit beaucoup sur quelqu'un."
         },
         {
             title: "Les petites attentions",
             symbol: "✧",
-            text: "Les petites attentions ne font pas toujours beaucoup de bruit, mais elles peuvent illuminer une journée."
+            text: "Bon, je t'avoue que j'aime bien l'idée de faire des petites choses juste pour donner le sourire. Même si c'est trois fois rien, ça me fait plaisir de le faire."
         },
         {
             title: "Le droit de souffler",
             symbol: "☾",
-            text: "Même quand les journées sont bien remplies, n’oublie pas que tu as aussi le droit de souffler."
+            text: "Entre le boulot et tout le reste, j'imagine que les journées peuvent vite passer à une vitesse folle. Alors petit rappel : t'as aussi le droit de ne rien faire et de penser un peu à toi."
         },
         {
             title: "Les petits bonheurs",
@@ -23,12 +23,12 @@
         {
             title: "Une petite fleur",
             symbol: "✿",
-            text: "Certaines fleurs ont ce petit quelque chose qui donne le sourire… et maintenant, je sais lesquelles te plaisent. 🌼"
+            text: "Tu vois, maintenant, quand je croise des marguerites, j'ai une petite pensée pour toi. Comme quoi, il suffit parfois d'une fleur pour penser à quelqu'un. 🌼"
         },
         {
             title: "Pour ce soir",
             symbol: "☾",
-            text: "Et si, pour une fois, la seule chose à faire ce soir, c’était de profiter de ta soirée ? Je te souhaite un peu de douceur et de tranquillité."
+            text: "Je voulais juste ajouter une dernière petite étoile ici. Rien de particulier à dire, juste l’envie de te faire sourire un peu."
         }
     ];
     const canvas = document.getElementById("sky");
